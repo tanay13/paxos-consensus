@@ -1,0 +1,4 @@
+-I./include      # Look in the include/ folder for headers
+-std=c++17
+-Wall            # Enable warnings (optional)
+
